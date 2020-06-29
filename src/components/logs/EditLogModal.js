@@ -92,7 +92,7 @@ const EditLogModal = ({ current, updateLog }) => {
         <a
           href="#!"
           onClick={onSubmit}
-          className="modal-close waves-effect blue waves-light btn"
+          className="modal-close waves-effect black waves-light btn"
         >
           Enter
         </a>
@@ -102,7 +102,7 @@ const EditLogModal = ({ current, updateLog }) => {
 };
 
 const modalStyle = {
-  width: "75%",
+  width: "50%",
   height: "75%",
 };
 
